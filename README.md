@@ -1,16 +1,17 @@
-# Socket-Server
+# Instructions
 
-Levantar dependencias
+
+Install dependencies
 ```
 npm install
 ```
 
-Compilar TS, generar carpeta Dist
+Compile TS to JS
 ```
-tsc -w
+tsc
 ```
 
-Levantar servidor
+Start development server
 ```
 nodemon dist/
 ```
